@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using DemoMVC.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<DEMOMVC>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DEMOMVC") ?? throw new InvalidOperationException("Connection string 'DEMOMVC' not found.")));
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("ApplicationDbContext") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContext' not found.")));
 
