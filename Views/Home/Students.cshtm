@@ -1,0 +1,8 @@
+<h1>@ViewBag.tyh </h1>
+<form asp-action ="Index">
+ <label>Mã sinh viên:</label>
+ <input name="StudentId" type="text">
+ <label>Họ Tên:</label>
+ <input name="FullName" type="text">
+  <input type="submit" value="gửi dữ liệu">
+</form>
