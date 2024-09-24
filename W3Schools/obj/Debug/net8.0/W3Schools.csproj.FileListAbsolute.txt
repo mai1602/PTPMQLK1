@@ -28,3 +28,5 @@ D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\refint\W3Schools.dll
 D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\W3Schools.pdb
 D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\W3Schools.genruntimeconfig.cache
 D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\ref\W3Schools.dll
+D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\W3Schools.csproj.AssemblyReference.cache
+D:\PTPMQLK1\W3Schools\obj\Debug\net8.0\W3Schools.sourcelink.json

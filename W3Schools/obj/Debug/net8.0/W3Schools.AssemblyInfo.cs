@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W3Schools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f1de4d85b818c511c357aceb19eb6897618568")]
 [assembly: System.Reflection.AssemblyProductAttribute("W3Schools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W3Schools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
